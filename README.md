@@ -1,39 +1,41 @@
-# 🎵 Hand Gesture Volume Controller
+# 🖐️ Hand Gesture Volume Controller
 
-Control your system's volume using **hand gestures** with the power of **OpenCV**, **MediaPipe**, and **Python**.
-
----
-
-## 🚀 Features
-- Real-time hand tracking using webcam
-- Adjust volume by moving your **thumb** and **index finger**
-- On-screen volume bar visualization
-- Simple Tkinter-based GUI
+Control your computer’s audio volume using hand gestures — no need to touch the keyboard or mouse!  
+This project uses **OpenCV**, **MediaPipe**, **PyCaw**, and **Tkinter** for real-time gesture recognition and volume control.
 
 ---
 
-## 🧠 Tech Stack
-- Python
-- OpenCV
-- MediaPipe
-- Pycaw
-- Tkinter (optional)
+## 🎥 Demo
+![Demo GIF](assets/demo.gif)
 
 ---
 
-## ⚙️ Setup Instructions
+## 🖼️ Screenshot
+![Screenshot](assets/demo.png)
 
+---
+
+## 🧠 Features
+- ✅ Start/Stop webcam from GUI  
+- ✅ Real-time hand tracking  
+- ✅ Live volume bar with color change  
+- ✅ Percentage display of current volume  
+- ✅ Visual instruction prompts
+
+---
+
+## 🛠️ Tech Stack
+- **Python**
+- **OpenCV**
+- **MediaPipe**
+- **Tkinter**
+- **PyCaw**
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
 ```bash
-# Clone the repository
-git clone https://github.com/<your-username>/HandGestureVolumeController.git
-cd HandGestureVolumeController
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run directly
-python gesture_controller.py
-
-# Or with GUI
-python ui.py
-s
+git clone https://github.com/Jaksanishruthi/Hand_Gesture_Volume_Controller.git
+cd Hand_Gesture_Volume_Controller
