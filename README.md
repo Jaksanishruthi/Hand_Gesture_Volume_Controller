@@ -5,16 +5,6 @@ This project uses **OpenCV**, **MediaPipe**, **PyCaw**, and **Tkinter** for real
 
 ---
 
-## 🎥 Demo
-![Demo GIF](assets/demo.gif)
-
----
-
-## 🖼️ Screenshot
-![Screenshot](assets/demo.png)
-
----
-
 ## 🧠 Features
 - ✅ Start/Stop webcam from GUI  
 - ✅ Real-time hand tracking  
